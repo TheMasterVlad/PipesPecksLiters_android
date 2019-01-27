@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pipes,Pecks,Liters converter</string>
+    <string name="rb_pipes">Pipes</string>
+    <string name="rb_pecks">Pecks</string>
+    <string name="rb_liters">Liters</string>
+    <string name="btn_convert">CONVERT</string>
+    <string name="btn_clr">CLEAR</string>
+</resources>
